@@ -1,2 +1,2 @@
 # project101dit
-// hello people for the first branch yay
+// hello people i got no more ideas
